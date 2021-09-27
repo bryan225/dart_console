@@ -1,0 +1,64 @@
+{
+    "players": [
+        {
+            "name": "Luke Walton",
+            "rarity": 2,
+            "o_long": 6,
+            "o_mid": 4,
+            "o_drive": 4,
+            "d_long": 3,
+            "d_mid": 5,
+            "d_drive": 5
+        },
+        {
+            "name": "Lebron James",
+            "rarity": 5,
+            "o_long": 7,
+            "o_mid": 8,
+            "o_drive": 10,
+            "d_long": 5,
+            "d_mid": 5,
+            "d_drive": 8
+        },
+        {
+            "name": "Kobe Bryant",
+            "rarity": 5,
+            "o_long": 8,
+            "o_mid": 10,
+            "o_drive": 8,
+            "d_long": 6,
+            "d_mid": 8,
+            "d_drive": 7
+        },
+        {
+            "name": "Shaq O'neal",
+            "rarity": 5,
+            "o_long": 1,
+            "o_mid": 3,
+            "o_drive": 10,
+            "d_long": 1,
+            "d_mid": 6,
+            "d_drive": 10
+        },
+        {
+            "name": "Steph Curry",
+            "rarity": 5,
+            "o_long": 10,
+            "o_mid": 9,
+            "o_drive": 4,
+            "d_long": 3,
+            "d_mid": 3,
+            "d_drive": 3
+        },
+        {
+            "name": "Rick Fox",
+            "rarity": 3,
+            "o_long": 7,
+            "o_mid": 5,
+            "o_drive": 5,
+            "d_long": 7,
+            "d_mid": 7,
+            "d_drive": 7
+        }
+    ]
+}
